@@ -1,0 +1,9 @@
+U:\SLAM4\WinForm\Tp frnêtre Mere et Fille\Tp frnêtre Mere et Fille\obj\x86\Debug\Tp_frnêtre_Mere_et_Fille.FFille.resources
+U:\SLAM4\WinForm\Tp frnêtre Mere et Fille\Tp frnêtre Mere et Fille\obj\x86\Debug\Tp_frnêtre_Mere_et_Fille.FMere.resources
+U:\SLAM4\WinForm\Tp frnêtre Mere et Fille\Tp frnêtre Mere et Fille\obj\x86\Debug\Tp_frnêtre_Mere_et_Fille.Properties.Resources.resources
+U:\SLAM4\WinForm\Tp frnêtre Mere et Fille\Tp frnêtre Mere et Fille\obj\x86\Debug\Tp frnêtre Mere et Fille.csproj.GenerateResource.Cache
+U:\SLAM4\WinForm\Tp frnêtre Mere et Fille\Tp frnêtre Mere et Fille\bin\Debug\Tp frnêtre Mere et Fille.exe
+U:\SLAM4\WinForm\Tp frnêtre Mere et Fille\Tp frnêtre Mere et Fille\bin\Debug\Tp frnêtre Mere et Fille.pdb
+U:\SLAM4\WinForm\Tp frnêtre Mere et Fille\Tp frnêtre Mere et Fille\obj\x86\Debug\Tp frnêtre Mere et Fille.exe
+U:\SLAM4\WinForm\Tp frnêtre Mere et Fille\Tp frnêtre Mere et Fille\obj\x86\Debug\Tp frnêtre Mere et Fille.pdb
+U:\SLAM4\WinForm\Tp frnêtre Mere et Fille\Tp frnêtre Mere et Fille\obj\x86\Debug\Tp frnêtre Mere et Fille.csprojResolveAssemblyReference.cache
